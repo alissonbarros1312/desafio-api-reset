@@ -1,7 +1,7 @@
 /// <reference types="cypress"/>
 import productReviewSchema from '../../contratos/postProductReviewSchema'
 import putProductReview from '../../contratos/putProductReviewSchema'
-import deleteProductReview from '../../contratos/deleteProductReview'
+import deleteProductReview from '../../contratos/deleteProductReviewSchema'
 
 describe('Product Review', ()=>{
 
